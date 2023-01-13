@@ -1,1 +1,3 @@
 Menambah cabang fitur-a yang induk cabangnya adalah develop
+
+Sekarang di cabang rilis akan merge ke cabang master
